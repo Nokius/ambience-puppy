@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-puppy",
+    "files" : [
+        { "displayName" : "puppy-ringtone"          , "fileName" : "puppy_Ringtone.wav" },
+       	{ "displayName" : ""       , "fileName" : "" },
+        { "displayName" : ""            , "fileName" : "" },
+        { "displayName" : ""         , "fileName" : "" },
+        { "displayName" : ""    , "fileName" : "" },
+        { "displayName" : ""       , "fileName" : "" }
+    ]
+}

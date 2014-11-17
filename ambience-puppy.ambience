@@ -1,0 +1,18 @@
+{
+    "translationCatalog"        : "ambience-puppy",
+    "displayName"               : "Puppy",
+    "ringerToneFile"            : { "file": "puppy_Ringtone.wav", "enabled": 1 },
+    "messageToneFile"           : { "file": "",  "enabled": 1 },
+    "mailToneFile"              : { "file": "",  "enabled": 1 },
+    "internetCallToneFile"      : { "file": "",  "enabled": 1 },
+    "chatToneFile"              : { "file": "",  "enabled": 1 },
+    "calendarToneFile"          : { "file": "",  "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "",  "enabled": 1 },
+    "wallpaper"                 : "ambience-puppy.jpg",
+    "highlightColor"            : "#BAB9B9",
+    "secondaryHighlightColor"   : "#E3E3E3",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFF99",
+    "ringerVolume"              : 60,
+    "favorite"			: true
+}
